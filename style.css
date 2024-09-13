@@ -42,6 +42,14 @@ body{
     height: 80px;
 }
 
+a{
+    width: 95%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
 .card .input input{
     width: 95%;
     border: none;
